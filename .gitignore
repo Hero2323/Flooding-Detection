@@ -1,3 +1,7 @@
 .venv/*
 dataset/*
 Data/*
+flood-area-segmentation/*
+output/*
+mask_output/*
+water-bodies-dataset/*
