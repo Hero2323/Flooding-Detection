@@ -61,3 +61,43 @@ It used the LBP features from the training set as training data.
 ### Unsupervised:
 1. ISODATA.
 2. K-Means.
+### Segemenation :
+<p float="left" padding="5px" margin="5px" >
+  <img src="https://github.com/Hero2323/Flooding-Detection/blob/main/Inference/segmented_images_resenet18/105.jpg" width="300"  style="margin-right: 15px;" />
+  <img src="https://github.com/Hero2323/Flooding-Detection/blob/main/Inference/images/105.jpg" width="300" /> 
+</p>
+
+### Collaborators :
+<!-- readme: collaborators -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Hero2323">
+            <img src="https://avatars.githubusercontent.com/u/58619697?v=4" width="100;" alt="Abdelrahman Jamal"/>
+            <br />
+            <sub><b>Abdelrahman Jamal</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Iten-No-404">
+            <img src="https://avatars.githubusercontent.com/u/56697800?v=4" width="100;" alt="Iten-No-404"/>
+            <br />
+            <sub><b>Iten Elhak</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/radwaahmed2132000">
+            <img src="https://avatars.githubusercontent.com/u/56734728?v=4" width="100;" alt="radwaahmed2132000"/>
+            <br />
+            <sub><b>Radwa Ahmed</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/abdullahalshawafi">
+            <img src="https://avatars.githubusercontent.com/u/53022307?v=4" width="100;" alt="abdullahalshawafi"/>
+            <br />
+            <sub><b>Abdullah Alshawafi</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: collaborators -end -->
